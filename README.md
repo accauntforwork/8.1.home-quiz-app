@@ -5,7 +5,7 @@
 How to clone this repository
 
 ```bash
-git clone "github link"
+git clone https://github.com/accauntforwork/8.1.home-quiz-app.git
 
 npm i
 # or
@@ -15,7 +15,7 @@ npm run dev
 ```
 
 what i added
-Loading with [styled-components(https://styled-components.com/)]
+Loading with [styled-components](https://styled-components.com/)
 
 Loading
 
