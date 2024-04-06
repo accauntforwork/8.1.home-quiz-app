@@ -14,7 +14,7 @@ npm install
 npm run dev
 ```
 
-what i added
+what i added:
 Loading with [styled-components](https://styled-components.com/)
 
 Loading
